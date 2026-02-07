@@ -8,11 +8,7 @@ Phase 1 Highlights
 Hybrid Encoder Architecture: Engineered a robust feature extractor using Python and PyTorch. This module combines Convolutional Neural Networks (CNN) to capture local patterns 
 with Transformers to understand long-term market dependencies.
 
-Custom Trading Environment: Developed a bespoke OpenAI Gym environment tailored for financial market simulation, defining the observation space and action boundaries required for agent interaction.
-
-Data Pipeline: Implemented a high-performance data processing pipeline to normalize and feed sequential market data into the encoder.
-
-Development Methodology: The "Vibe Code" Approach
+Development Methodology: "Vibe Code" Approach
 This project utilizes a Vibe Code methodology to accelerate the development of complex architectures:
 
 AI-Assisted Prototyping: A significant portion of the Phase 1 structural logic was synthesized using AI-driven coding assistants. This allowed for rapid iteration of the Encoder's 
